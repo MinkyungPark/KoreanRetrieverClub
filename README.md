@@ -39,5 +39,5 @@
 | Name | Email |
 |:---|:---|
 | Min-Kyung Park | park29@kakao.com |
-| Jae-Hyun Cho |  |
-| Jae-Hoo Jang |  |
+| Jae-Hyun Cho | bonin147@gmail.com |
+| Jae-Hoo Jang | jeahooo4128@gmail.com |
