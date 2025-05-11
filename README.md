@@ -13,7 +13,7 @@
 | Week | Done | Presentation Topic 1 | Presentation Topic 2 | Presentation Topic 3 |
 |:---:|:---:|:---:|:---:|:---:|
 | 4th Week of April | [✅] | Multi-turn Retrieval | SCALING LLM TEST-TIME COMPUTE OPTIMALLY CAN BE MORE EFFECTIVE THAN SCALING PARAMETERS FOR REASONING |  |
-| 2nd Week of May | [ ] |  |  |  |
+| 2nd Week of May | [✅] | Multi-stage Instruction Prompt Optimization | KNOWLEDGE ENTROPY DECAY DURING LANGUAGE MODEL  PRETRAINING HINDERS NEW KNOWLEDGE ACQUISITION | Atom of Thoughts for Markov LLM Test-Time Scaling |
 
 ---
 
