@@ -12,7 +12,7 @@
 
 | Week | Done | Presentation Topic 1 | Presentation Topic 2 | Presentation Topic 3 |
 |:---:|:---:|:---:|:---:|:---:|
-| 4th Week of April | [✅] | Multi-turn Retrieval | SCALING LLM TEST-TIME COMPUTE OPTIMALLY CAN BE MORE EFFECTIVE THAN SCALING PARAMETERS FOR REASONING |  |
+| 4th Week of April | [✅] | Multi-turn Retrieval | SCALING LLM TEST-TIME COMPUTE OPTIMALLY CAN BE MORE EFFECTIVE THAN SCALING PARAMETERS FOR REASONING | Does fine-tuning llms on new knowledge encourage hallucinations |
 | 2nd Week of May | [✅] | Multi-stage Instruction Prompt Optimization | KNOWLEDGE ENTROPY DECAY DURING LANGUAGE MODEL  PRETRAINING HINDERS NEW KNOWLEDGE ACQUISITION | Atom of Thoughts for Markov LLM Test-Time Scaling |
 | 4nd Week of May | [✅] | A Bayesian approach for prompt optimization in pretrained language models | Does fine-tuning llms on new knowledge encourage hallucinations | SAKURA: On the Multi-hop Reasoning of Large Audio-Language Models Based on Speech and Audio Information |
 
