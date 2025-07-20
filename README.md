@@ -17,7 +17,7 @@
 | 4nd Week of May | [✅] | A Bayesian approach for prompt optimization in pretrained language models | Does fine-tuning llms on new knowledge encourage hallucinations | SAKURA: On the Multi-hop Reasoning of Large Audio-Language Models Based on Speech and Audio Information |
 | 1st Week of June | [✅] | Spurious Rewards: Rethinking Training Signals in RLVR | Absolute Zero: Reinforced Self-play Reasoning with Zero Data | Calm-Whisper: Reduce Whisper Hallucination On Non-Speech By Calming Crazy Heads Down |
 | 3st Week of June | [✅] | Large Language Diffusion Models | DeepScaleR: Surpassing O1-preview with a 1.5B Model by Scaling RL | Chain-of-Thought Prompting for Speech Translation |
-| 3st Week of July | [] |  |  |
+| 3st Week of July | [✅] | PLAN-AND-ACT : Improving Planning of Agents for Long-Horizon Tasks | Emergent Misalignment : Narrow finetuning can produce broadly misaligned LM | DiarizationLM : Speaker Diarication Post-Processing with Large Language Models |
 
 ---
 
