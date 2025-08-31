@@ -19,6 +19,9 @@
 | 3st Week of June | [✅] | Large Language Diffusion Models | DeepScaleR: Surpassing O1-preview with a 1.5B Model by Scaling RL | Chain-of-Thought Prompting for Speech Translation |
 | 3st Week of July | [✅] | PLAN-AND-ACT : Improving Planning of Agents for Long-Horizon Tasks | Emergent Misalignment : Narrow finetuning can produce broadly misaligned LM | DiarizationLM : Speaker Diarication Post-Processing with Large Language Models |
 | 1st Week of Aug | [✅] | Tools in the Loop: Quantifying Uncertainty of LLM Question Answering Systems That Use Tools | Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection |  |
+| 5st Week of Aug | [✅] | Routine: A Structural Planning Framework for LLM Agent System in Enterprise | Small Language Models are the Future of Agentic AI |  |
+
+
 
 ---
 
