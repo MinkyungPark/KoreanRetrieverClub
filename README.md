@@ -21,7 +21,7 @@
 | 1st Week of Aug | [✅] | Tools in the Loop: Quantifying Uncertainty of LLM Question Answering Systems That Use Tools | Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection |  |
 | 5st Week of Aug | [✅] | Routine: A Structural Planning Framework for LLM Agent System in Enterprise | Small Language Models are the Future of Agentic AI |  |
 | 4st Week of Sep | [✅] | Subliminal Learning: Language models transmit behavioral traits via hidden signals in data | Real-Time Detection of Hallucinated Entities in Long-Form Generation |  |
-
+| 3st Week of Oct | [✅] | DeepConf: DEEP THINK WITH CONFIDENCE | Parallel-R1: Towards Parallel Thinking via Reinforcement Learning |  |
 
 ---
 
